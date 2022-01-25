@@ -1,5 +1,4 @@
-# interesting_projects
+# Spacy + Streamlit
 
-
-## Project1 - spacy + streamlit
+## Project - spacy + streamlit
 
